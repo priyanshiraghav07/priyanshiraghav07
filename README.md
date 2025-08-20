@@ -57,22 +57,19 @@
 
 ## 📊 GitHub Stats  
 
-![Priyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshiraghav07&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiraghav07&layout=compact&theme=tokyonight&hide_border=true)  
+![Priyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshiraghav07&show_icons=true&theme=tokyonight&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiraghav07&layout=compact&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshiraghav07&theme=tokyonight&hide_border=true)  
 
 
 ## 📌 Featured Projects  
 - 📁 [SkillNest](#) – Internship Dashboard Platform  
-- 📂 [Python ML Project](#) – Data Science using NumPy, Pandas, Scikit-learn  
+- 📂 [Python Project](#) – Data Science using NumPy, Pandas, Scikit-learn  
 - 📁 [Portfolio Website](#) – Built using HTML, CSS, JS, Tailwind  
 
 
 ## 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/priyanshi-raghav-947011318)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavpriyanshi007@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/priyanshi-raghav-947011318) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavpriyanshi007@gmail.com)  
 
 
 ⭐ **Keep learning, keep building, and keep growing.**  
