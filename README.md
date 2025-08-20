@@ -26,10 +26,9 @@
 
 ### 📚 Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,bootstrap" height="45"/>  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,bootstrap,tailwind" height="45"/>  
 </p>  
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>  
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
