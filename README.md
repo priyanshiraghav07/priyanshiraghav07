@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me  
-- 🌱 I'm a **Full Stack Developer** with interest in **AI & Data Science**  
+- 🌱 I'm a **MERN Stack Devewloper** & passionated in **Full Stack Developer** with interest in **Genrative AI**  
 - 🔐 Exploring **Chatbots, AI Integrations, and Chrome Plugins**  
 - 🎨 Skilled in **UI/UX design with Figma**  
 - 💻 Open to **internships, collaborations, and open-source contributions**  
