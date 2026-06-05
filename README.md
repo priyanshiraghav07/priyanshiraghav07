@@ -61,9 +61,8 @@
 
 
 ## 📌 Featured Projects  
-- 📁 [SkillNest](#) – Internship Dashboard Platform  
-- 📂 [Python Project](#) – Data Science using NumPy, Pandas, Scikit-learn  
-- 📁 [Portfolio Website](#) – Built using HTML, CSS, JS, Tailwind  
+- 📁 [SkillNest](https://github.com/priyanshiraghav07/SkillNest-AI-Internship-Website) – Internship Dashboard Platform | [Live Demo](https://skill-nest-ai-internship-website.vercel.app/)
+- 📂 [Book-Hive](https://github.com/priyanshiraghav07/Book-Hive) – Ecommercwe Website | [Live Demo](https://priyanshiraghav07.github.io/Book-Hive/)
 
 
 ## 📫 Let's Connect  
